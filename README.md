@@ -42,6 +42,10 @@ Glacadóir is designed for field portability. It connects to a standard 868MHz S
 3. **Expansion:** Features a dedicated UART/SPI expansion port to connect external modules like an Eggtimer or secondary radio adapters.
 4. **Charging:** Integrated USB-C charging allows for field-topping while the station remains active.
 
+### 3D enclosure cad
+there is no proper enclosure cad yet, but it will be inspired by a gameboy and cartridge design like so
+[3D cad](https://github.com/ArnavMK/ground_station/blob/main/Galery/3D_cad.png)
+
 ### Why I made it
 
 This project was made for the ULAS HiPR’s ground station needs. 
