@@ -44,7 +44,7 @@ Glacadóir is designed for field portability. It connects to a standard 868MHz S
 
 ### 3D enclosure cad
 there is no proper enclosure cad yet, but it will be inspired by a gameboy and cartridge design like so
-[3D cad](https://github.com/ArnavMK/ground_station/blob/main/Galery/3D_cad.png)
+![Screenshot 2026-03-23 150607.png](https://github.com/ArnavMK/ground_station/blob/main/Galery/3D_cad.png)
 
 ### Why I made it
 
