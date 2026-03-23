@@ -1,13 +1,14 @@
 ---
+
 # Glacadóir: Handheld Rocketry Ground Station
 
 **3D Render:**
 
-[Insert your 3D CAD render here]
+
 
 **PCB Layout (Rev 1.2):**
 
-[Insert your KiCad 2D or 3D view here]
+
 
 ### What is this project?
 
@@ -35,6 +36,7 @@ This project was made for the ULAS HiPR’s ground station needs.
 
 ---
 
+*you will find the bom.csv in the root directory*
 ### Bill of Materials (BOM) - Rev 1.2
 
 | Part | Amount | Link | Cost |
