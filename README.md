@@ -1,13 +1,26 @@
-
 # Glacadóir: Handheld Rocketry Ground Station
 
 **3D Render:**
 
+![Screenshot 2026-03-23 150607.png](https://github.com/ArnavMK/ground_station/blob/main/Galery/Screenshot%202026-03-23%20150158.png)
 
+![Screenshot_2026-02-23_235556.png](https://github.com/ArnavMK/ground_station/blob/main/Galery/Screenshot%202026-03-23%20150607.png)
+
+![Screenshot 2026-03-23 150158.png](https://github.com/ArnavMK/ground_station/blob/main/Galery/image.png)
+
+![Screenshot_2026-02-23_235556.png](https://github.com/ArnavMK/ground_station/blob/main/Galery/Screenshot%202026-03-23%20150646.png)
+
+![Screenshot 2026-03-23 150227.png](https://github.com/ArnavMK/ground_station/blob/main/Galery/Screenshot_2026-02-23_235556.png)
+
+![Screenshot 2026-03-23 150646.png](https://github.com/ArnavMK/ground_station/blob/main/Galery/Screenshot%202026-03-23%20150227.png)
 
 **PCB Layout (Rev 1.2):**
 
+![Screenshot 2026-03-23 153224.png](https://github.com/ArnavMK/ground_station/blob/main/Galery/Screenshot%202026-03-23%20153224.png)
 
+![Screenshot 2026-03-23 153124.png](https://github.com/ArnavMK/ground_station/blob/main/Galery/Screenshot%202026-03-23%20153124.png)
+
+![Screenshot 2026-03-23 152942.png](https://github.com/ArnavMK/ground_station/blob/main/Galery/Screenshot%202026-03-23%20152942.png)
 
 ### What is this project?
 
@@ -35,7 +48,6 @@ This project was made for the ULAS HiPR’s ground station needs.
 
 ---
 
-*you will find the bom.csv in the root directory*
 ### Bill of Materials (BOM) - Rev 1.2
 
 | Part | Amount | Link | Cost |
