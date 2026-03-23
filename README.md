@@ -1,4 +1,3 @@
----
 
 # Glacadóir: Handheld Rocketry Ground Station
 
